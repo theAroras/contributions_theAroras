@@ -1,6 +1,6 @@
 # [contributions](https://www.github.com/theAroras/contributions_theAroras)_[theAroras](https://www.github.com/theAroras)
 
-_**Disclaimer**: This repository was created for contributive purposes. You may contribute to the **[@theAroras](https://www.github.com/theAroras)** by [clicking here](https://www.amayarora.github.io/)._ 
+_**Disclaimer**: This repository was created for contributive purposes. You may contribute to the **[@theAroras](https://www.github.com/theAroras)** by [clicking here](https://amayarora.github.io/)._ 
 
 Also, in the title, by clicking `contributions`, you will be redirected to this repository, **contributions_theAroras**, and by clicking `theAroras`, you will be redirected to our organization, **@theAroras**.
 
